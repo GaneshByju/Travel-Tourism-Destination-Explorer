@@ -15,7 +15,14 @@ export default function PackageDetail() {
   const pkg = packagesData.find((p) => p.id === id);
   const bookmarked = pkg ? isSaved(pkg.id) : false;
 
-  const galleryImages = pkg?.images && pkg.images.length > 0 ? pkg.images : (pkg ? [pkg.image] : []);
+  const rawGalleryImages = pkg?.images && pkg.images.length > 0 ? pkg.images : (pkg ? [pkg.image] : []);
+  const getAssetUrl = (url) => {
+    if (!url) return '';
+    if (url.startsWith('http://') || url.startsWith('https://')) return url;
+    const cleanUrl = url.startsWith('/') ? url.slice(1) : url;
+    return `${import.meta.env.BASE_URL}${cleanUrl}`;
+  };
+  const galleryImages = rawGalleryImages.map(getAssetUrl);
   const [selectedImgIdx, setSelectedImgIdx] = useState(0);
   const [lightboxOpen, setLightboxOpen] = useState(false);
 

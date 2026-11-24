@@ -7,7 +7,15 @@ export default function PackageCard({ pkg }) {
   const { isSaved, toggleSave } = useSaved();
   const bookmarked = isSaved(pkg.id);
 
-  const imageList = pkg.images && pkg.images.length > 0 ? pkg.images : [pkg.image];
+  const rawImageList = pkg.images && pkg.images.length > 0 ? pkg.images : [pkg.image];
+  // Ensure paths with leading slash resolve properly on GitHub Pages subfolder
+  const getAssetUrl = (url) => {
+    if (!url) return '';
+    if (url.startsWith('http://') || url.startsWith('https://')) return url;
+    const cleanUrl = url.startsWith('/') ? url.slice(1) : url;
+    return `${import.meta.env.BASE_URL}${cleanUrl}`;
+  };
+  const imageList = rawImageList.map(getAssetUrl);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
 

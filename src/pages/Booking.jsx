@@ -11,6 +11,13 @@ export default function Booking() {
   const { id } = useParams();
   const navigate = useNavigate();
 
+  const getAssetUrl = (url) => {
+    if (!url) return '';
+    if (url.startsWith('http://') || url.startsWith('https://')) return url;
+    const cleanUrl = url.startsWith('/') ? url.slice(1) : url;
+    return `${import.meta.env.BASE_URL}${cleanUrl}`;
+  };
+
   const pkg = packagesData.find((p) => p.id === id);
 
   // Form states
@@ -766,7 +773,7 @@ export default function Booking() {
 
               <div className="flex gap-3.5 items-center mb-5">
                 <img
-                  src={pkg.image}
+                  src={getAssetUrl(pkg.image)}
                   alt={pkg.title}
                   className="w-16 h-16 rounded-xl object-cover shrink-0"
                 />
