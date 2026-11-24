@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { SavedProvider } from './context/SavedContext';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -22,7 +22,7 @@ function ScrollToTop() {
 function App() {
   return (
     <SavedProvider>
-      <BrowserRouter>
+      <Router>
         <ScrollToTop />
         <div className="min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans antialiased selection:bg-teal-500 selection:text-white">
           <Navbar />
@@ -42,7 +42,7 @@ function App() {
           </main>
           <Footer />
         </div>
-      </BrowserRouter>
+      </Router>
     </SavedProvider>
   );
 }
