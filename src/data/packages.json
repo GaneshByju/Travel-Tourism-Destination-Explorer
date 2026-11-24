@@ -1,0 +1,410 @@
+[
+  {
+    "id": "munnar-mist-3d",
+    "title": "Munnar Tea Hills & Mist Escape",
+    "location": "Idukki, Kerala",
+    "category": "Hill Station",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 7500,
+    "rating": 4.8,
+    "image": "/images/munnar/munnar-1.jpg",
+    "images": [
+      "/images/munnar/munnar-1.jpg",
+      "/images/munnar/munnar-2.jpg",
+      "/images/munnar/munnar-3.jpg",
+      "/images/munnar/munnar-4.jpg"
+    ],
+    "summary": "Explore rolling tea estates, misty viewpoints, and cool highland trails in God's Own Country.",
+    "highlights": [
+      "Eravikulam National Park & Nilgiri Tahr viewpoint",
+      "Tea museum walkthrough & tea tasting",
+      "Guided morning nature walk & Mattupetty Dam visit"
+    ],
+    "inclusions": [
+      "2 Nights stay in premium hill resort",
+      "Daily breakfast and dinner included",
+      "Private AC cab for all transfers & sightseeing",
+      "Entry tickets to Eravikulam and Tea Museum"
+    ],
+    "exclusions": [
+      "Personal expenses & boating charges",
+      "Flight or train fare to Kochi",
+      "Travel insurance",
+      "Lunch and snacks"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Kochi & Drive to Munnar",
+        "description": "Scenic drive through Cheeyappara and Valara waterfalls. Check-in to resort and evening stroll in spice plantations."
+      },
+      {
+        "day": 2,
+        "title": "Munnar Sightseeing Extravaganza",
+        "description": "Morning visit to Eravikulam National Park, followed by Mattupetty Dam, Echo Point, and the heritage Tea Museum."
+      },
+      {
+        "day": 3,
+        "title": "Kundala Lake & Departure",
+        "description": "Morning sunrise viewpoints at Kundala Lake, shopping for exotic spices & tea, followed by return transfer to Kochi."
+      }
+    ]
+  },
+  {
+    "id": "alleppey-backwater-cruise",
+    "title": "Alleppey Houseboat Serenade & Backwaters",
+    "location": "Alappuzha, Kerala",
+    "category": "Beach",
+    "duration": "2 Days / 1 Night",
+    "pricePerPerson": 6200,
+    "rating": 4.9,
+    "image": "/images/alleppey/alleppey-1.jpg",
+    "images": [
+      "/images/alleppey/alleppey-1.jpg",
+      "/images/alleppey/alleppey-2.jpg",
+      "/images/alleppey/alleppey-3.jpg",
+      "/images/alleppey/alleppey-4.jpg"
+    ],
+    "summary": "Glid along emerald palm-fringed lagoons and canals aboard a traditional luxury Kerala houseboat.",
+    "highlights": [
+      "Overnight luxury houseboat cruise along Punnamada Lake",
+      "Authentic Kerala Karimeen fish curry lunch & evening snacks",
+      "Sunset village canoe ride through narrow channels"
+    ],
+    "inclusions": [
+      "1 Night on traditional Kerala houseboat with private chef",
+      "All meals: Welcome drink, lunch, evening tea, dinner, breakfast",
+      "Air-conditioned bedroom during night hours",
+      "Village exploration canoe tour"
+    ],
+    "exclusions": [
+      "Alcoholic beverages & personal tips",
+      "Pickup from outside Alleppey town",
+      "Extra activities not mentioned in itinerary"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Boarding & Canal Cruising",
+        "description": "Check-in at noon with fresh tender coconut. Cruise through paddy fields, lakeside temples, and anchor for a sunset dinner."
+      },
+      {
+        "day": 2,
+        "title": "Morning Village Life & Disembarkation",
+        "description": "Wake up to misty waters, fresh traditional breakfast, canal bird watching, and checkout at 9:30 AM."
+      }
+    ]
+  },
+  {
+    "id": "wayanad-wild-trail",
+    "title": "Wayanad Rainforest & Cave Expedition",
+    "location": "Wayanad, Kerala",
+    "category": "Adventure",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 8200,
+    "rating": 4.7,
+    "image": "/images/wayanad/wayanad-1.jpg",
+    "images": [
+      "/images/wayanad/wayanad-1.jpg",
+      "/images/wayanad/wayanad-2.jpg",
+      "/images/wayanad/wayanad-3.jpg",
+      "/images/wayanad/wayanad-4.jpg"
+    ],
+    "summary": "Trek through prehistoric caves, mist-draped peaks, bamboo forests, and sparkling waterfalls.",
+    "highlights": [
+      "Chembra Peak heart-shaped lake trek",
+      "Edakkal prehistoric rock carvings exploration",
+      "Bamboo rafting in Kuruva Island"
+    ],
+    "inclusions": [
+      "2 Nights eco-resort or treehouse stay",
+      "All meals and trail energy packs",
+      "Forest department permits & certified local trek guides",
+      "4x4 Jeep transfers to trailheads"
+    ],
+    "exclusions": [
+      "Personal trekking gear & shoes",
+      "Camera fees inside wildlife zones",
+      "Emergency evacuation insurance"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Edakkal Caves",
+        "description": "Climb Ambukuthi Hills to explore Neolithic rock engravings. Relax at evening campfire."
+      },
+      {
+        "day": 2,
+        "title": "Chembra Peak Trek & Soochipara Falls",
+        "description": "Challenging morning trek to the romantic Heart Lake, followed by refreshing swim at Soochipara Falls."
+      },
+      {
+        "day": 3,
+        "title": "Kuruva Island Bamboo Rafting & Departure",
+        "description": "Float on pristine river rafts among dense evergreen canopies, souvenir shopping, and return journey."
+      }
+    ]
+  },
+  {
+    "id": "hampi-unesco-ruins",
+    "title": "Hampi Boulder Trails & Vijayanagara Heritage",
+    "location": "Hampi, Karnataka",
+    "category": "Heritage",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 9800,
+    "rating": 4.85,
+    "image": "/images/hampi/hampi-3.jpg",
+    "images": [
+      "/images/hampi/hampi-3.jpg",
+      "/images/hampi/hampi-1.jpg",
+      "/images/hampi/hampi-2.png"
+    ],
+    "summary": "Step into a golden era of monolithic statues, stone chariots, and timeless ruins across boulder hills.",
+    "highlights": [
+      "Vijaya Vittala Temple & musical pillars",
+      "Sunset view atop Matanga Hill & Tungabhadra River coracle ride",
+      "Royal Enclosure, Lotus Mahal, and Elephant Stables"
+    ],
+    "inclusions": [
+      "3 Nights heritage hotel stay with pool",
+      "Daily breakfast and traditional thali dinners",
+      "Licensed ASI heritage guide throughout tours",
+      "Coracle boat ride & monument entrance fees"
+    ],
+    "exclusions": [
+      "Bicycle or moped rental fees",
+      "Lunch meals & cold drinks",
+      "Gratuities for drivers and guides"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Virupaksha Temple",
+        "description": "Check-in, orientation walk along Hampi Bazaar, and sunset over Hemakuta Hill temples."
+      },
+      {
+        "day": 2,
+        "title": "The Grand Royal Architecture",
+        "description": "Explore Lotus Mahal, Zenana Enclosure, Queens Bath, and the towering monolith Narasimha."
+      },
+      {
+        "day": 3,
+        "title": "Vittala Temple & Anegundi Hipster Side",
+        "description": "See the iconic Stone Chariot, cross the Tungabhadra river via traditional round coracle, and visit Sanapur Lake."
+      },
+      {
+        "day": 4,
+        "title": "Matanga Hill Sunrise & Departure",
+        "description": "Panoramic 360-degree golden hour sunrise over Hampi ruins before return transfer to Hospet railway station."
+      }
+    ]
+  },
+  {
+    "id": "varkala-cliff-beaches",
+    "title": "Varkala Cliff, Waves & Sunset Serenity",
+    "location": "Varkala, Kerala",
+    "category": "Beach",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 6800,
+    "rating": 4.65,
+    "image": "/images/varkala/varkala-1.jpg",
+    "images": [
+      "/images/varkala/varkala-1.jpg",
+      "/images/varkala/varkala-2.jpg",
+      "/images/varkala/varkala-3.jpg"
+    ],
+    "summary": "Perch atop iconic red laterite cliffs overlooking pristine golden sands and the Arabian Sea.",
+    "highlights": [
+      "Cliffside cafes with international fusion cuisines",
+      "Beginner surf lesson at Black Beach",
+      "Sacred Papanasam Beach natural spring bath"
+    ],
+    "inclusions": [
+      "2 Nights cliff-view boutique resort stay",
+      "Daily gourmet breakfasts and beach club access",
+      "1x Guided surf lesson with board & safety gear",
+      "Sunset yoga session with certified master"
+    ],
+    "exclusions": [
+      "Ayurvedic massage charges",
+      "Cafe food & beverage bills",
+      "Airport transfers from Thiruvananthapuram"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Cliff Arrival & Sunset Chill",
+        "description": "Settle into your ocean-facing room, take a scenic walk on the North Cliff walkway, and enjoy live acoustic music."
+      },
+      {
+        "day": 2,
+        "title": "Surfing & Temple Springs",
+        "description": "Catch morning waves with expert instructors, explore 2000-year-old Janardhana Swamy Temple, and beach picnic."
+      },
+      {
+        "day": 3,
+        "title": "Anjengo Fort & Departure",
+        "description": "Quick heritage visit to colonial Anjengo Fort and lighthouse before departure towards Trivandrum."
+      }
+    ]
+  },
+  {
+    "id": "ooty-coonoor-heritage",
+    "title": "Ooty & Coonoor Nilgiri Mountain Railway Odyssey",
+    "location": "Nilgiris, Tamil Nadu",
+    "category": "Hill Station",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 8900,
+    "rating": 4.75,
+    "image": "/images/ooty/ooty-1.jpg",
+    "images": [
+      "/images/ooty/ooty-1.jpg",
+      "/images/ooty/ooty-2.png",
+      "/images/ooty/ooty-3.jpg",
+      "/images/ooty/ooty-4.png"
+    ],
+    "summary": "Ride the historic UNESCO Toy Train through pine valleys, botanical gardens, and misty tea slopes.",
+    "highlights": [
+      "UNESCO Toy train ride between Ooty and Coonoor",
+      "Dolphin's Nose viewpoint & Sim's Park botanical walks",
+      "Doddabetta Peak & handmade chocolate tasting"
+    ],
+    "inclusions": [
+      "3 Nights stay in heritage British-era bungalow",
+      "Daily breakfast & 4-course dinner",
+      "Guaranteed reserved tickets for Nilgiri Mountain Toy Train",
+      "Full sightseeing in private cab"
+    ],
+    "exclusions": [
+      "Boat ride fees at Ooty Lake",
+      "Special photography permits",
+      "Items of personal nature"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Ooty & Botanical Garden",
+        "description": "Drive up the 36 hairpin bends of Kalhatty ghats. Visit Govt Botanical Garden and Rose Garden."
+      },
+      {
+        "day": 2,
+        "title": "Heritage Toy Train to Coonoor",
+        "description": "Board the vintage blue steam engine train through dark tunnels and mountain bridges to Coonoor. Visit Lamb's Rock."
+      },
+      {
+        "day": 3,
+        "title": "Doddabetta Peak & Pykara Falls",
+        "description": "Highest point in South India with telescope views, followed by speed boating at Pykara Lake."
+      },
+      {
+        "day": 4,
+        "title": "Chocolate Factory & Departure",
+        "description": "Watch artisanal chocolate making, pack gourmet Nilgiri tea packs, and head down towards Coimbatore."
+      }
+    ]
+  },
+  {
+    "id": "dandeli-river-rafting",
+    "title": "Dandeli Wild Waters & Kali River Adventure",
+    "location": "Uttara Kannada, Karnataka",
+    "category": "Adventure",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 7100,
+    "rating": 4.8,
+    "image": "/images/dandeli/dandeli-1.jpg",
+    "images": [
+      "/images/dandeli/dandeli-1.jpg",
+      "/images/dandeli/dandeli-2.jpg",
+      "/images/dandeli/dandeli-3.jpg",
+      "/images/dandeli/dandeli-4.jpg"
+    ],
+    "summary": "Conquer Grade III Kali river rapids, natural jacuzzi baths, and deep wildlife jungle safaris.",
+    "highlights": [
+      "9 km Kali River white water rafting with Grade III rapids",
+      "Natural river whirlpool jacuzzi bath experience",
+      "Night jungle safari & hornbill birdwatching"
+    ],
+    "inclusions": [
+      "2 Nights jungle campsite tent or cottage stay",
+      "All meals buffet (Veg & Non-Veg)",
+      "River rafting session with international safety gear",
+      "Kayaking, zorbing, and river crossing"
+    ],
+    "exclusions": [
+      "Personal GoPro footage charges",
+      "Jungle safari vehicle entry tax",
+      "Beverages and tips"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Jungle Camp Arrival & Kali Jacuzzi",
+        "description": "Reach campsite deep inside forest. Experience natural bubbling water massage in river rapids."
+      },
+      {
+        "day": 2,
+        "title": "White Water Rafting & Zipline",
+        "description": "Adrenaline-fueled 3-hour river rafting through gorge rapids, followed by high-speed flying fox zipline."
+      },
+      {
+        "day": 3,
+        "title": "Syntheri Rocks & Departure",
+        "description": "Trek down to monolithic granite Syntheri Rocks canyon and depart with adrenaline-filled memories."
+      }
+    ]
+  },
+  {
+    "id": "madurai-thanjavur-temples",
+    "title": "Great Living Chola & Pandya Temples Circuit",
+    "location": "Madurai & Thanjavur, Tamil Nadu",
+    "category": "Heritage",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 8800,
+    "rating": 4.9,
+    "image": "/images/temples/temples-2.jpg",
+    "images": [
+      "/images/temples/temples-2.jpg",
+      "/images/temples/temples-3.jpg",
+      "/images/temples/temples-1.jpg"
+    ],
+    "summary": "Marvel at thousand-year-old Dravidian granite gopurams, Bronze art, and vibrant temple rituals.",
+    "highlights": [
+      "Meenakshi Amman Temple 14-tower complex & night ceremony",
+      "Thanjavur Brihadisvara (Big Temple) thousand-year monolithic dome",
+      "Chettinad heritage mansion architectural tour & culinary feast"
+    ],
+    "inclusions": [
+      "3 Nights 4-star boutique hotel accommodation",
+      "Authentic South Indian breakfast and curated Chettinad lunch",
+      "VIP temple entry passes for seamless darshan",
+      "Dedicated cultural historian guide"
+    ],
+    "exclusions": [
+      "Camera fees inside monuments",
+      "Special prayer offerings & personal donations",
+      "Airfare or train tickets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Madurai Arrival & Meenakshi Splendor",
+        "description": "Check-in and evening visit to the awe-inspiring Meenakshi Sundareswarar Temple to witness the ceremonial procession."
+      },
+      {
+        "day": 2,
+        "title": "Thirumalai Nayakkar Palace to Chettinad",
+        "description": "Tour the Italian-influenced stucco arches of Nayak Palace, then drive through Chettinad mansions and taste 7-course spice feast."
+      },
+      {
+        "day": 3,
+        "title": "Thanjavur Brihadisvara Wonder",
+        "description": "Stand before the 216-foot granite vimana built by Emperor Raja Raja Chola I. Visit Thanjavur Royal Palace Art Gallery."
+      },
+      {
+        "day": 4,
+        "title": "Bronze Casting Crafts & Departure",
+        "description": "Watch master artisans cast lost-wax Chola bronzes at Swamimalai before departure transfer to Trichy airport."
+      }
+    ]
+  }
+]
